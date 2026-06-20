@@ -40,8 +40,7 @@ This dashboard enables financial institutions and investors to assess portfolio 
 ## 📊 Dashboard Visualizations
 
 ### 1. Loan Performance & Default Analysis
-
-![Loan Performance Dashboard](images/loan_performance_dashboard.png)
+<img width="2075" height="1200" alt="Loan_Analysis_Dashboard_page-0001" src="https://github.com/user-attachments/assets/0d0a965c-35a6-4dd3-921c-fb14d1b8e3a0" />
 
 **Highlights**
 
@@ -57,7 +56,8 @@ This dashboard enables financial institutions and investors to assess portfolio 
 
 ### 2. Securitisation Risk Assessment
 
-![Securitisation Risk Dashboard](images/securitisation_risk_dashboard.png)
+<img width="1950" height="1325" alt="Loan_Analysis_Dashboard_page-0002" src="https://github.com/user-attachments/assets/006663dc-9c1c-4ce5-81d5-aae736fd2bd7" />
+
 
 **Highlights**
 
@@ -71,7 +71,8 @@ This dashboard enables financial institutions and investors to assess portfolio 
 
 ### 3. Loss Contribution Analysis
 
-![Loss Contribution Dashboard](images/loss_contribution_dashboard.png)
+<img width="2075" height="1200" alt="Loan_Analysis_Dashboard_page-0003" src="https://github.com/user-attachments/assets/4d966ac0-2525-40c7-bf83-9c17855f9902" />
+
 
 **Highlights**
 
@@ -84,7 +85,8 @@ This dashboard enables financial institutions and investors to assess portfolio 
 
 ### 4. Stress Testing Dashboard
 
-![Stress Testing Dashboard](images/stress_testing_dashboard.png)
+<img width="2075" height="1482" alt="Loan_Analysis_Dashboard_page-0004" src="https://github.com/user-attachments/assets/f9a88c05-9d31-4de2-9781-c163df6326cb" />
+
 
 **Highlights**
 
@@ -97,7 +99,8 @@ This dashboard enables financial institutions and investors to assess portfolio 
 
 ### 5. Securitisation Portfolio Overview
 
-![Portfolio Overview Dashboard](images/portfolio_overview_dashboard.png)
+<img width="1950" height="1482" alt="Loan_Analysis_Dashboard_page-0005" src="https://github.com/user-attachments/assets/b59581dc-a634-4754-88c5-7cc453c40acf" />
+
 
 **Highlights**
 
@@ -111,7 +114,8 @@ This dashboard enables financial institutions and investors to assess portfolio 
 
 ### 6. Investor Risk & Portfolio Summary
 
-![Investor Dashboard](images/investor_risk_dashboard.png)
+<img width="2075" height="1200" alt="Loan_Analysis_Dashboard_page-0006" src="https://github.com/user-attachments/assets/71a96e85-2b51-41aa-88ea-b29801886522" />
+
 
 **Highlights**
 
@@ -125,7 +129,8 @@ This dashboard enables financial institutions and investors to assess portfolio 
 
 ### 7. Securitisation Risk Arena Simulation
 
-![Risk Arena Dashboard](images/risk_arena_dashboard.png)
+<img width="2075" height="1200" alt="Loan_Analysis_Dashboard_page-0007" src="https://github.com/user-attachments/assets/1d73b4ff-4571-4257-a299-378b6ae6205a" />
+
 
 **Highlights**
 
